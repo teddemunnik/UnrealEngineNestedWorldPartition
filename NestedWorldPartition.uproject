@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{43AD46C8-478D-F207-93F2-81A2CDCE8640}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NestedWorldPartition",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
